@@ -1,0 +1,10 @@
+name: 'triopt'
+version: '1.0.0'
+license: 'MIT'
+author: 's29a'
+url: 'https://github.com/s29a/triopt.vim'
+description: '-'
+colorschemes:
+  - name: triopt
+    background: 'dark'
+    palette: triopt
