@@ -1,26 +1,26 @@
-black.normal: '#282A2E'
-black.bright: '#373B41'
+black1: '#282A2E'
+black2: '#373B41'
 
-red.normal: '#A54242'
-red.bright: '#CC6666'
+red1: '#A54242'
+red2: '#CC6666'
 
-green.normal: '#A6E22E'
-green.bright: '#B6E354'
+green1: '#A6E22E'
+green2: '#B6E354'
 
-yellow.normal: '#AF5F00'
-yellow.bright: '#AF7F00'
+yellow1: '#AF5F00'
+yellow2: '#AF7F00'
 
-blue.normal: '#435E87'
-blue.bright: '#587AA4'
+blue1: '#435E87'
+blue2: '#587AA4'
 
-magenta.normal: '#805090'
-magenta.bright: '#85678F'
+magenta1: '#805090'
+magenta2: '#85678F'
 
-cyan.normal: '#5E8D87'
-cyan.bright: '#8ABEB7'
+cyan1: '#5E8D87'
+cyan2: '#8ABEB7'
 
-white.normal: '#707880'
-white.bright: '#C5C8C6'
+white1: '#707880'
+white2: '#C5C8C6'
 
 foreground: '#C5C8C6'
 background: '#1D1D1D'
