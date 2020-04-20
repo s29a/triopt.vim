@@ -1,5 +1,5 @@
-color_foreground: 'foreground'
-color_background: 'background'
+color_foreground: 'fg'
+color_background: 'bg'
 color_0: 'black1'
 color_1: 'red1'
 color_2: 'green1'

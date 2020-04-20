@@ -22,5 +22,5 @@ cyan2: '#8ABEB7'
 white1: '#707880'
 white2: '#C5C8C6'
 
-foreground: '#C5C8C6'
-background: '#1D1D1D'
+fg: '#C5C8C6'
+bg: '#1D1D1D'
